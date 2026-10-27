@@ -32,4 +32,4 @@
 
 # Ссылка на репозиторий и на сайт:
 - https://github.com/Gimeroska/sales-bonus.git
--
+- https://gimeroska.github.io/sales-bonus/
